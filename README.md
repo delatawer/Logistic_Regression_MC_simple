@@ -1,1 +1,1 @@
-# Logistic_Regression_MC_simple
+# Simple Logistic Regression for Iris Dataset
